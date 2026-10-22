@@ -177,13 +177,13 @@ no realistic photo, no injuries, no blood
 
 ---
 
-## 📥 التحميل — V3
+## 📥 التحميل — V3.2
 
 ### ⭐ زيب واحد: برومبتات + مشاهد + مراجع
 
-**https://github.com/latchidz/CARROT-TRAP/releases/download/v3.1/CARROT_TRAP_EP01_V3_PROMPTS_AND_SCENES.zip**
+**https://github.com/latchidz/CARROT-TRAP/releases/download/v3.2/CARROT_TRAP_EP01_V32_PROMPTS_AND_SCENES.zip**
 
-`35 ملف · 45.3 MB`
+`35 ملف · 46.4 MB`
 
 ```
 CARROT_TRAP_EP01/
