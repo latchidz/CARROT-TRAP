@@ -177,28 +177,38 @@ no realistic photo, no injuries, no blood
 
 ---
 
-## 📥 التحميل — مجلد لكل مقطع (جاهز للتحريك)
+## 📥 التحميل — البرومبتات في مجلد وحدهم
 
-**https://github.com/latchidz/CARROT-TRAP/releases/download/v4.0/CARROT_TRAP_EP01_CLIPS.zip**
+**https://github.com/latchidz/CARROT-TRAP/releases/download/v4.1/CARROT_TRAP_EP01_PROMPTS_AND_SCENES.zip**
 
-`33 ملف · 52 MB`
+`37 ملف · 52 MB`
 
 ```
-CARROT_TRAP_EP01_CLIPS/
+CARROT_TRAP_EP01/
 ├── 00_START_HERE.txt
-├── CLIP_01_SC01A_TIE_THE_ROPE/
-│   ├── FRAME_A__KF01_TIE_THE_ROPE.png    ← First frame
-│   ├── FRAME_B__KF02_LIFT_THE_SACK.png   ← Last frame
-│   └── PROMPT.txt                        ← البرومبت + الإعدادات + النيغاتيف
-├── CLIP_02_SC01B_SET_THE_NET/   …
-├── CLIP_03_SC02_THE_BAIT/       …
-├── CLIP_04_SC03_THE_HAUL/       …
-├── CLIP_05_SC04A_THE_SLIP/      …
-├── CLIP_06_SC04B_THE_IMPACT/    …
-├── CLIP_07_SC05_THE_PAYOFF/     …
-├── CLIP_08_SC06_THE_END/        ← First frame فقط
-├── _REFERENCE/                  مراجع الجزرة والشخصيات
-└── _SHEETS/                     ورقة الاتصال + خريطة السلسلة
+│
+├── PROMPTS/                                 ← كل البرومبتات هنا
+│   ├── 00_ALL_PROMPTS_ONE_FILE.txt            الـ8 في ملف واحد
+│   ├── 01_PROMPT_SCENE_01__SC01A_TIE_THE_ROPE.txt
+│   ├── 02_PROMPT_SCENE_02__SC01B_SET_THE_NET.txt
+│   ├── 03_PROMPT_SCENE_03__SC02_THE_BAIT.txt
+│   ├── 04_PROMPT_SCENE_04__SC03_THE_HAUL.txt
+│   ├── 05_PROMPT_SCENE_05__SC04A_THE_SLIP.txt
+│   ├── 06_PROMPT_SCENE_06__SC04B_THE_IMPACT.txt
+│   ├── 07_PROMPT_SCENE_07__SC05_THE_PAYOFF.txt
+│   └── 08_PROMPT_SCENE_08__SC06_THE_END.txt
+│
+├── 01_CLIP_SC01A_TIE_THE_ROPE/   FRAME_A + FRAME_B
+├── 02_CLIP_SC01B_SET_THE_NET/    FRAME_A + FRAME_B
+├── 03_CLIP_SC02_THE_BAIT/        FRAME_A + FRAME_B
+├── 04_CLIP_SC03_THE_HAUL/        FRAME_A + FRAME_B
+├── 05_CLIP_SC04A_THE_SLIP/       FRAME_A + FRAME_B
+├── 06_CLIP_SC04B_THE_IMPACT/     FRAME_A + FRAME_B
+├── 07_CLIP_SC05_THE_PAYOFF/      FRAME_A + FRAME_B
+├── 08_CLIP_SC06_THE_END/         FRAME_A فقط
+│
+├── _REFERENCE/                   مراجع الجزرة والشخصيات
+└── _SHEETS/                      ورقة الاتصال + خريطة السلسلة
 ```
 
 | | |
