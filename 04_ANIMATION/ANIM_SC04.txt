@@ -1,0 +1,59 @@
+=== SC04 — THE REVERSAL ===
+Duration: 6.000 seconds | Wide · low 1m · STATIC · frozen action beat | NO DIALOGUE | NO MUSIC
+
+LOGLINE: ★ KEY SHOT. The trap fails and the fox's own net catches him. Four beats in one beat of time.
+★★★ READ THE PHYSICS: ① rabbit LOSES HIS GRIP on the carrot → ② the rope goes SLACK → ③ the fox, still pulling at full weight, loses balance and rams his BACK into the boulder → ④ the sack knocked off the top of the boulder falls onto him. NOTHING falls by magic. EVERYTHING follows from ①.
+
+--- COPY FROM HERE ---
+SHOT: Vertical 9:16 portrait, 3D animated slapstick comedy, Pixar-quality rendering,
+warm golden late-afternoon forest light. Static locked-off camera. ZERO camera movement.
+
+CONTINUITY — THIS IS LAW:
+  THE RABBIT: small chubby white rabbit, long upright ears with pink inner ears,
+  big dark eyes, small pink nose, two white buck teeth, fluffy cotton tail, short chubby legs.
+  ONE light-wash blue denim sleeveless vest, frayed raw armholes, open at the front, over bare
+  white fur. NO shirt, NO trousers, NO shoes, NO hat.
+  THE FOX: tall thin lanky orange fox, long slim legs, bushy orange tail with a bright WHITE tip,
+  cream-white chest and belly, black paws, black ear tips, narrow amber-yellow eyes.
+  ONE old frayed yellow-tan straw hat, wide flat brim, one small dark brown patch on the LEFT side,
+  tilted. NO other clothing.
+  ★★ SCALE LAW: THE FOX IS MORE THAN TWICE THE RABBIT'S HEIGHT. The top of the rabbit's long ears
+  reaches only the MIDDLE OF THE FOX'S CHEST. The fox's head alone is bigger than the rabbit's
+  whole body. NEVER resize either character in this clip.
+  THE SET: ONE massive pine trunk on the CENTRAL vertical axis. The small rabbit burrow at its base
+  ON THE TRUNK CENTRE LINE. ONE large smooth grey boulder on the RIGHT, closer to camera.
+  Never move, add or remove any of them. NO RABBIT until SC02.
+  THE SACK: one large coarse pale tan BURLAP SACK. Its position is the story:
+    SC01-SC03 → draped over the FLAT TOP of the grey boulder
+    SC04      → sliding OFF the boulder onto the fox
+    SC05-SC06 → wrapped around the fox on the ground
+  ⚠️ THE FACE AND THE FUR AND THE CLOTHES MUST BELONG TO THE SAME CHARACTER.
+
+TIMING:
+  0.0-0.8s     ① The rabbit's paws SLIP off the carrot. His paws open, empty. The carrot spins free across the grass. The rope goes INSTANTLY SLACK — a curved dropping loop.
+  0.8-2.2s     ③ The fox was pulling at full weight. With nothing on the other end he is launched BACKWARDS in his own recoil — arms thrown wide, legs off the ground, tail flipping over his head.
+  1.4-3.0s     His BACK SLAMS INTO THE GREY BOULDER. The rock does not move. He stops dead against it. A dust ring puffs out.
+  2.2-4.0s     ④ The impact knocks the burlap sack LOOSE from the flat top of the boulder. It TIPS and SLIDES DOWN off the rock, mouth open, straight down onto his head and shoulders.
+  2.6-4.2s     ② The rabbit lands flat on his back on the grass at the left, all four paws up, ears splayed. He bounces once.
+  4.0-5.2s     The sack swallows the fox to the waist. His straw hat pops off his head and spins up into the air above him.
+  5.2-6.0s     Everything settles. Dust hangs. The loose rope lies across the grass. The carrot is on its side, still rolling a little. Hold on the freeze.
+
+SOUND: a rubbery SLIP as the paws lose the carrot · a whip-crack as the rope goes slack · a heavy BACK-ON-ROCK thud · a canvas FWUMP as the sack lands · a hollow spinning whoosh for the hat · two soft thuds on landing.
+NO MUSIC anywhere. Foley and cartoon SFX only.
+
+END FRAME: The rabbit flat on his back on the grass at the left with empty open paws, the carrot beside him. The slack rope looping across the middle. The fox pinned against the boulder, sack over his head and shoulders, hat in the air. The boulder is now BARE on top.
+
+no text, no subtitles, no watermark, no logo, no readable labels;
+no changed face, no changed fur colour, no changed eye colour, no changed proportions, no resized characters;
+no missing denim vest, no vest colour change, no added shirt, no added trousers, no added shoes;
+no missing straw hat, no hat colour change, no removed brown patch;
+no extra characters, no background animals, no humans;
+no moved pine tree, no moved burrow, no moved boulder, no second boulder, no second burrow;
+no new props appearing or disappearing; no extra carrots; no second sack;
+no horizontal 16:9 framing, no square framing — VERTICAL 9:16 ONLY;
+no photorealism, no 2D flat illustration, no sketch;
+no warping limbs, no melted paws, no extra fingers, no duplicated limbs;
+no camera shake, no handheld, no zoom, no push-in, no pan, no cut, no new camera angle;
+no slow motion, no speed ramps, no colour shift;
+no blood, no injuries, no weapon, no scary imagery.
+--- COPY TO HERE ---

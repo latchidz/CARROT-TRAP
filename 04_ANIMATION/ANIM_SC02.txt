@@ -1,0 +1,57 @@
+=== SC02 — THE BAIT ===
+Duration: 5.000 seconds | Medium-close · ground level 40cm · STATIC · camera at the burrow | NO DIALOGUE | NO MUSIC
+
+LOGLINE: The rabbit's nose finds the bait. Slow, silent buildup.
+The sack is still visibly draped over the boulder on the right.
+
+--- COPY FROM HERE ---
+SHOT: Vertical 9:16 portrait, 3D animated slapstick comedy, Pixar-quality rendering,
+warm golden late-afternoon forest light. Static locked-off camera. ZERO camera movement.
+
+CONTINUITY — THIS IS LAW:
+  THE RABBIT: small chubby white rabbit, long upright ears with pink inner ears,
+  big dark eyes, small pink nose, two white buck teeth, fluffy cotton tail, short chubby legs.
+  ONE light-wash blue denim sleeveless vest, frayed raw armholes, open at the front, over bare
+  white fur. NO shirt, NO trousers, NO shoes, NO hat.
+  THE FOX: tall thin lanky orange fox, long slim legs, bushy orange tail with a bright WHITE tip,
+  cream-white chest and belly, black paws, black ear tips, narrow amber-yellow eyes.
+  ONE old frayed yellow-tan straw hat, wide flat brim, one small dark brown patch on the LEFT side,
+  tilted. NO other clothing.
+  ★★ SCALE LAW: THE FOX IS MORE THAN TWICE THE RABBIT'S HEIGHT. The top of the rabbit's long ears
+  reaches only the MIDDLE OF THE FOX'S CHEST. The fox's head alone is bigger than the rabbit's
+  whole body. NEVER resize either character in this clip.
+  THE SET: ONE massive pine trunk on the CENTRAL vertical axis. The small rabbit burrow at its base
+  ON THE TRUNK CENTRE LINE. ONE large smooth grey boulder on the RIGHT, closer to camera.
+  Never move, add or remove any of them. NO RABBIT until SC02.
+  THE SACK: one large coarse pale tan BURLAP SACK. Its position is the story:
+    SC01-SC03 → draped over the FLAT TOP of the grey boulder
+    SC04      → sliding OFF the boulder onto the fox
+    SC05-SC06 → wrapped around the fox on the ground
+  ⚠️ THE FACE AND THE FUR AND THE CLOTHES MUST BELONG TO THE SAME CHARACTER.
+
+TIMING:
+  0.0-1.0s     Nothing. The dark hole. Then ONE long white ear TIPS OUT and twitches, testing the air.
+  1.0-2.0s     The second ear follows. Both ears rotate independently, listening.
+  2.0-3.0s     The head squeezes out of the small hole — a comical slow push, cheeks compressed by the rim.
+  3.0-4.0s     His eyes LOCK on the carrot at the lower left. Pupils blow wide. His jaw drops open.
+  4.0-5.0s     One thin thread of drool starts and lengthens, then DROPS. He does not blink. Hold on the face.
+
+SOUND: dirt crumble · a soft ear-flick · a rubbery 'pop' as he squeezes out · a tiny wet 'plip' for the drool.
+NO MUSIC anywhere. Foley and cartoon SFX only.
+
+END FRAME: The rabbit's head and shoulders out of the hole, ears up, mouth open, drool fallen, eyes on the carrot. The sack still on the boulder behind.
+
+no text, no subtitles, no watermark, no logo, no readable labels;
+no changed face, no changed fur colour, no changed eye colour, no changed proportions, no resized characters;
+no missing denim vest, no vest colour change, no added shirt, no added trousers, no added shoes;
+no missing straw hat, no hat colour change, no removed brown patch;
+no extra characters, no background animals, no humans;
+no moved pine tree, no moved burrow, no moved boulder, no second boulder, no second burrow;
+no new props appearing or disappearing; no extra carrots; no second sack;
+no horizontal 16:9 framing, no square framing — VERTICAL 9:16 ONLY;
+no photorealism, no 2D flat illustration, no sketch;
+no warping limbs, no melted paws, no extra fingers, no duplicated limbs;
+no camera shake, no handheld, no zoom, no push-in, no pan, no cut, no new camera angle;
+no slow motion, no speed ramps, no colour shift;
+no blood, no injuries, no weapon, no scary imagery.
+--- COPY TO HERE ---

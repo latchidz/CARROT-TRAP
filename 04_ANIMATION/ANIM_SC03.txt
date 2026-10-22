@@ -1,0 +1,57 @@
+=== SC03 — THE HAUL ===
+Duration: 6.000 seconds | Medium-wide · low 1m · STATIC | NO DIALOGUE | NO MUSIC
+
+LOGLINE: The fox makes the first violent yank. The rabbit is dragged — but refuses to let go.
+★★★ WHO PULLS WHOM — NEVER SWAP THIS: THE FOX hauls the rope. THE RABBIT is dragged. It never changes hands.
+
+--- COPY FROM HERE ---
+SHOT: Vertical 9:16 portrait, 3D animated slapstick comedy, Pixar-quality rendering,
+warm golden late-afternoon forest light. Static locked-off camera. ZERO camera movement.
+
+CONTINUITY — THIS IS LAW:
+  THE RABBIT: small chubby white rabbit, long upright ears with pink inner ears,
+  big dark eyes, small pink nose, two white buck teeth, fluffy cotton tail, short chubby legs.
+  ONE light-wash blue denim sleeveless vest, frayed raw armholes, open at the front, over bare
+  white fur. NO shirt, NO trousers, NO shoes, NO hat.
+  THE FOX: tall thin lanky orange fox, long slim legs, bushy orange tail with a bright WHITE tip,
+  cream-white chest and belly, black paws, black ear tips, narrow amber-yellow eyes.
+  ONE old frayed yellow-tan straw hat, wide flat brim, one small dark brown patch on the LEFT side,
+  tilted. NO other clothing.
+  ★★ SCALE LAW: THE FOX IS MORE THAN TWICE THE RABBIT'S HEIGHT. The top of the rabbit's long ears
+  reaches only the MIDDLE OF THE FOX'S CHEST. The fox's head alone is bigger than the rabbit's
+  whole body. NEVER resize either character in this clip.
+  THE SET: ONE massive pine trunk on the CENTRAL vertical axis. The small rabbit burrow at its base
+  ON THE TRUNK CENTRE LINE. ONE large smooth grey boulder on the RIGHT, closer to camera.
+  Never move, add or remove any of them. NO RABBIT until SC02.
+  THE SACK: one large coarse pale tan BURLAP SACK. Its position is the story:
+    SC01-SC03 → draped over the FLAT TOP of the grey boulder
+    SC04      → sliding OFF the boulder onto the fox
+    SC05-SC06 → wrapped around the fox on the ground
+  ⚠️ THE FACE AND THE FUR AND THE CLOTHES MUST BELONG TO THE SAME CHARACTER.
+
+TIMING:
+  0.0-1.0s     The fox sets his heels into the grass, both black paws on the rope, and leans his weight back. The rope snaps TAUT with one hard twang — a straight vibrating line.
+  1.0-2.4s     ★ THE FIRST VIOLENT YANK. He hauls backwards in one big lanky heave. The carrot lurches LEFT. The rabbit's feet SKID — two long skid marks open behind him. He is dragged half a body-length.
+  2.4-3.8s     The rabbit refuses to let go: he leans back the other way, ears blown straight backwards, cheeks puffed, heels digging in, body off balance. Grass and dust spray up.
+  3.8-5.0s     The fox YANKS AGAIN — shorter, sharper. The rope twangs. The rabbit is dragged another step, ears whipping.
+  5.0-6.0s     The fox pauses, chest heaving, still leaning back, hat tilted. The rope stays taut. The sack is still on the boulder behind him. Deadlock. Hold.
+
+SOUND: rope creaking · a sharp fibre TWANG on each yank · feet skidding on grass · a dust puff · non-verbal effort grunts · the carrot's rubbery creak.
+NO MUSIC anywhere. Foley and cartoon SFX only.
+
+END FRAME: The fox still leaning back on the taut rope. The rabbit still clamped on the carrot, dragged forward, ears back, feet planted. One unbroken taut rope between them. The sack still on the boulder.
+
+no text, no subtitles, no watermark, no logo, no readable labels;
+no changed face, no changed fur colour, no changed eye colour, no changed proportions, no resized characters;
+no missing denim vest, no vest colour change, no added shirt, no added trousers, no added shoes;
+no missing straw hat, no hat colour change, no removed brown patch;
+no extra characters, no background animals, no humans;
+no moved pine tree, no moved burrow, no moved boulder, no second boulder, no second burrow;
+no new props appearing or disappearing; no extra carrots; no second sack;
+no horizontal 16:9 framing, no square framing — VERTICAL 9:16 ONLY;
+no photorealism, no 2D flat illustration, no sketch;
+no warping limbs, no melted paws, no extra fingers, no duplicated limbs;
+no camera shake, no handheld, no zoom, no push-in, no pan, no cut, no new camera angle;
+no slow motion, no speed ramps, no colour shift;
+no blood, no injuries, no weapon, no scary imagery.
+--- COPY TO HERE ---
