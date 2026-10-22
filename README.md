@@ -177,28 +177,34 @@ no realistic photo, no injuries, no blood
 
 ---
 
-## 📥 التحميل — V3.2
+## 📥 التحميل — مجلد لكل مقطع (جاهز للتحريك)
 
-### ⭐ زيب واحد: برومبتات + مشاهد + مراجع
+**https://github.com/latchidz/CARROT-TRAP/releases/download/v4.0/CARROT_TRAP_EP01_CLIPS.zip**
 
-**https://github.com/latchidz/CARROT-TRAP/releases/download/v3.2/CARROT_TRAP_EP01_V32_PROMPTS_AND_SCENES.zip**
-
-`35 ملف · 46.4 MB`
+`33 ملف · 52 MB`
 
 ```
-CARROT_TRAP_EP01/
-├── 00_READ_FIRST_AR.md      ← دليل البدء
-├── PROMPTS/                 9 ملفات (خريطة الإطارات · برومبتات الجسر · التحريك)
-├── SCENES/                  6 مشاهد + KEYFRAMES/ 4 إطارات
-├── REFERENCES/              11 ملف (منهم REF_CARROT ⭐ + CARROT_SPEC)
-└── SHEETS/                  ورقة الاتصال + خريطة السلسلة
+CARROT_TRAP_EP01_CLIPS/
+├── 00_START_HERE.txt
+├── CLIP_01_SC01A_TIE_THE_ROPE/
+│   ├── FRAME_A__KF01_TIE_THE_ROPE.png    ← First frame
+│   ├── FRAME_B__KF02_LIFT_THE_SACK.png   ← Last frame
+│   └── PROMPT.txt                        ← البرومبت + الإعدادات + النيغاتيف
+├── CLIP_02_SC01B_SET_THE_NET/   …
+├── CLIP_03_SC02_THE_BAIT/       …
+├── CLIP_04_SC03_THE_HAUL/       …
+├── CLIP_05_SC04A_THE_SLIP/      …
+├── CLIP_06_SC04B_THE_IMPACT/    …
+├── CLIP_07_SC05_THE_PAYOFF/     …
+├── CLIP_08_SC06_THE_END/        ← First frame فقط
+├── _REFERENCE/                  مراجع الجزرة والشخصيات
+└── _SHEETS/                     ورقة الاتصال + خريطة السلسلة
 ```
 
-| | الرابط |
+| | |
 |---|---|
 | **المستودع** | https://github.com/latchidz/CARROT-TRAP |
 | **كل الإصدارات** | https://github.com/latchidz/CARROT-TRAP/releases |
-| **صورة فرادى (raw)** | `https://raw.githubusercontent.com/latchidz/CARROT-TRAP/main/03_SCENES/KEYFRAMES/KF07_THE_SLIP.png` |
 
 ---
 
